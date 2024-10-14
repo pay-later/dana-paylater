@@ -1,0 +1,16 @@
+quickstart_etl
+├── README.md
+├── quickstart_etl
+│   ├── __init__.py
+│   ├── assets
+│   ├── docker_image
+├── ml_project
+│   ├── quickstart_ml
+│     ├── __init__.py
+│     ├── ml_assets
+├── random_assets.py
+├── quickstart_etl_tests
+├── dagster_cloud.yaml
+├── pyproject.toml
+├── setup.cfg
+└── setup.py
