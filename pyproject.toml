@@ -1,0 +1,11 @@
+.
+├── README.md
+├── my_dagster_project
+│   ├── __init__.py
+│   ├──  assets.py
+│   └──  definitions.py
+├── my_dagster_project_tests
+├── pyproject.toml
+├── setup.cfg
+├── setup.py
+└── tox.ini
